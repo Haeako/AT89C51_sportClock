@@ -4,7 +4,8 @@
 A sport clock based on AT89C51, displaying time on 4-digit 7-segment LEDs with a precision of 0.01 seconds (00.00s → 99.99s). The system supports 4 control modes implemented through external interrupts.
 
 ## Schematic:
-![schematic.bmp](asset\schematic.BMP)
+
+![schematic.bmp](asset/schematic.BMP)
 
 ## 🎛 Funtion:
 - **Button A (INT0)**: Pause / Resume.  
@@ -20,7 +21,7 @@ A sport clock based on AT89C51, displaying time on 4-digit 7-segment LEDs with a
 
 ## 🔗 Proteus Simulation:
 
-![Simulation.webm](https://github.com/user-attachments/assets/0a006352-5118-496b-ae9b-591133156ec2)
+[Simulation.webm](https://github.com/user-attachments/assets/0a006352-5118-496b-ae9b-591133156ec2)
 
 [Google Drive](https://drive.google.com/file/d/1LzE1PslYNJz4D2bf1CjuAcTLHaWI4JPU/view?usp=sharing)  
 
