@@ -1,4 +1,4 @@
-# 🕹 Sport Clock – 4 Nút Bấm (AT89C51/AT89C52)
+# 🕹 Sport Clock
 
 ## 📌 Introduction:
 A sport clock based on AT89C51, displaying time on 4-digit 7-segment LEDs with a precision of 0.01 seconds (00.00s → 99.99s). The system supports 4 control modes implemented through external interrupts.
